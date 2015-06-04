@@ -1,0 +1,9 @@
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\CnCMaster\bin\Debug\CnCMaster.exe.config
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\CnCMaster\bin\Debug\CnCMaster.exe
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\CnCMaster\bin\Debug\CnCMaster.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\CnCMaster\obj\Debug\CnCMaster.csprojResolveAssemblyReference.cache
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\CnCMaster\obj\Debug\CnCMaster.exe
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\CnCMaster\obj\Debug\CnCMaster.pdb
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\Debug\CnCMaster.exe.config
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\Debug\CnCMaster.exe
+C:\Users\Michael\documents\visual studio 2013\Projects\CnC\Debug\CnCMaster.pdb
